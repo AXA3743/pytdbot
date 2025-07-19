@@ -1,3 +1,3 @@
 # pytdbot
 
-Dummy README file.
+Library pytd untuk pengendalian Telegram Client.
