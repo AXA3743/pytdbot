@@ -1,3 +1,2 @@
-
 from .client import Client
-from .types import Update
+from .tdtypes import Update
